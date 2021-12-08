@@ -1,0 +1,3 @@
+rootProject.name = "TestLspatch"
+include ':app'
+include ':xposedmoduel'
